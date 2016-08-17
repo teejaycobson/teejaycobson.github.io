@@ -28,12 +28,14 @@
  */
 
 var rules = {
+  
+     "~*x howdy ~*y": [
+    "Toy Story is just Tom Hanks as a toy"
+  ],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
-    "~*x howdy ~*y": [
-    "Toy Story is just Tom Hanks as a toy"
-  ],
+ 
   "~*x computer ~*y": [
     "Do computers worry you?",
     "What do you think about machines have to do with your problem?",
