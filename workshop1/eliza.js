@@ -5,7 +5,7 @@
  * from that program:
  * 
  *  "Eliza is a pattern-matching automated psychiatrist. Given a set
- *   of rules in the form of input/output patterns, Eliza will attempt
+ *   of rules in the form of input/outpu;t patterns, Eliza will attempt
  *   to recognize user input phrases and generate relevant
  *   psychobabble responses.
  * 
